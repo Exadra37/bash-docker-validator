@@ -1,8 +1,17 @@
 {
     "name": "exadra37-bash/docker-validator",
-    "description": "All my repositories will have this one as starting point.",
+    "description": "Bash functions to validate docker images and containers.",
     "keywords": [
-        "Exadra37"
+        "Exadra37",
+        "bash",
+        "bash functions",
+        "bash package manager",
+        "bash required packages",
+        "bash bin package installer",
+        "bash docker",
+        "bash docker validator",
+        "docker validator",
+        "docker"
     ],
     "homepage": "https://gitlab.com/exadra37-bash/docker-validator",
     "license": "GPL-3.0",
